@@ -71,7 +71,7 @@ posible para ayudarle a satisfacer sus necesidades.
   * [Investigación con jugadores de Harry Potter: Wizards Unite](/potter/README.md)
 
 
-## 3. Objetivos de aprendizaje
+## 3. Objetivos de aprendizaje DATA -LOVERS
 
 El objetivo principal de este proyecto es que, entendiendo las necesidades de
 tus usuarios, aprendas a diseñar y construir una interfaz web donde se pueda
@@ -83,8 +83,8 @@ y de equipo.
 
 ### UX
 
-- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
-- [ ] Crear prototipos para obtener _feedback_ e iterar.
+- [X] Diseñar la aplicación pensando y entendiendo al usuario.
+- [X] Crear prototipos para obtener _feedback_ e iterar.
 - [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
 - [ ] Planear y ejecutar _tests_ de usabilidad.
 
@@ -97,7 +97,7 @@ y de equipo.
 
 ### DOM
 
-- [ ] Entender y reconocer los selectores del DOM (querySelector | querySelectorAll).
+- [X] Entender y reconocer los selectores del DOM (querySelector | querySelectorAll).
 - [ ] Manejar eventos del DOM. (addEventListener)
 - [ ] Manipular dinámicamente el DOM. (createElement, appendchild, innerHTML, value)
 
@@ -108,7 +108,11 @@ y de equipo.
 - [x] Entender el uso de condicionales (`if-else` | `switch`).
 - [ ] Entender el uso de bucles (`for` | `forEach`).
 - [ ] Entender la diferencia entre expression y statements.
+<<<<<<< HEAD
 - [x] Utilizar funciones (parámetros | argumentos | valor de retorno).
+=======
+- [X] Utilizar funciones (parámetros | argumentos | valor de retorno).
+>>>>>>> 736c5c4a9f44363717d8a80557fe87753b0c4541
 - [ ] Entender la diferencia entre tipos de datos atómicos y estructurados.
 - [ ] Utilizar ES Modules (`import` | `export`).
 
@@ -122,9 +126,14 @@ y de equipo.
 
 ### Buenas prácticas de desarrollo
 - [ ] Organizar y dividir el código en módulos (Modularización).
+<<<<<<< HEAD
 - [x] Utilizar identificadores descrip
 tivos (Nomenclatura | Semántica).
 - [x] Utilizar linter para seguir buenas prácticas (ESLINT).
+=======
+- [ ] Utilizar identificadores descriptivos (Nomenclatura | Semántica).
+- [X] Utilizar linter para seguir buenas prácticas (ESLINT).
+>>>>>>> 736c5c4a9f44363717d8a80557fe87753b0c4541
 
 ## 4. Consideraciones generales
 
