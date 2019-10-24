@@ -105,10 +105,14 @@ y de equipo.
 
 - [ ] Manipular arrays (`filter` | `map` | `sort` | `reduce`).
 - [ ] Manipular objects (key | value).
-- [ ] Entender el uso de condicionales (`if-else` | `switch`).
+- [x] Entender el uso de condicionales (`if-else` | `switch`).
 - [ ] Entender el uso de bucles (`for` | `forEach`).
 - [ ] Entender la diferencia entre expression y statements.
+<<<<<<< HEAD
+- [x] Utilizar funciones (parámetros | argumentos | valor de retorno).
+=======
 - [X] Utilizar funciones (parámetros | argumentos | valor de retorno).
+>>>>>>> 736c5c4a9f44363717d8a80557fe87753b0c4541
 - [ ] Entender la diferencia entre tipos de datos atómicos y estructurados.
 - [ ] Utilizar ES Modules (`import` | `export`).
 
@@ -116,14 +120,20 @@ y de equipo.
 - [ ] Testear funciones (funciones puras).
 
 ### Git y GitHub
-- [ ] Ejecutar comandos de git (`add` | `commit` | `pull` | `status` | `push`).
-- [ ] Utilizar los repositorios de GitHub (`clone` | `fork` | gh-pages).
+- [x] Ejecutar comandos de git (`add` | `commit` | `pull` | `status` | `push`).
+- [x] Utilizar los repositorios de GitHub (`clone` | `fork` | gh-pages).
 - [ ] Colaborar en Github (pull requests).
 
 ### Buenas prácticas de desarrollo
 - [ ] Organizar y dividir el código en módulos (Modularización).
+<<<<<<< HEAD
+- [x] Utilizar identificadores descrip
+tivos (Nomenclatura | Semántica).
+- [x] Utilizar linter para seguir buenas prácticas (ESLINT).
+=======
 - [ ] Utilizar identificadores descriptivos (Nomenclatura | Semántica).
 - [X] Utilizar linter para seguir buenas prácticas (ESLINT).
+>>>>>>> 736c5c4a9f44363717d8a80557fe87753b0c4541
 
 ## 4. Consideraciones generales
 
