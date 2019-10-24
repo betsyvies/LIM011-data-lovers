@@ -122,7 +122,8 @@ y de equipo.
 
 ### Buenas prácticas de desarrollo
 - [ ] Organizar y dividir el código en módulos (Modularización).
-- [x] Utilizar identificadores descriptivos (Nomenclatura | Semántica).
+- [x] Utilizar identificadores descrip
+tivos (Nomenclatura | Semántica).
 - [x] Utilizar linter para seguir buenas prácticas (ESLINT).
 
 ## 4. Consideraciones generales
